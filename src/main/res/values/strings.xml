@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WSMovie</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="name">Name</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="type">Type</string>
+    <string name="price">Price</string>
+    <string name="regress">regress</string>
+    <string name="action_settings">action_settings</string>
+    <string name="eliminar">eliminar</string>
+    <string name="modificar">modificar</string>
+    <string name="item">item</string>
+</resources>
